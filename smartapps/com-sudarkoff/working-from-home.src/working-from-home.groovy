@@ -123,4 +123,3 @@ private getDaysOk() {
 private hideOptions() {
     (days || modes)? false: true
 }
-
